@@ -186,7 +186,6 @@ Common extension points:
 - Switch to PostgreSQL for production
 - Add Redis for session caching
 - Implement proper connection pooling
-- Consider CDN for frontend assets
 
 ### Monitoring
 - Add structured logging with correlation IDs
@@ -196,15 +195,15 @@ Common extension points:
 
 ## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch
+1. Clone the repository
+2. Create a branch
 3. Make your changes
-4. Add tests for new functionality
-5. Submit a pull request
+4. Stage and commit them
+5. Submit a pull request to merge your new branch into main
 
 ## 📝 License
 
-MIT License - feel free to use this code for your own projects!
+Whatever really. Pls don't steal our code. Credit us if you do. Do it now before we unicorn 🚀
 
 ## 🏃‍♂️ Happy Training!
 
